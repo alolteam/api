@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Методы Api
 
 You can use the [editor on GitHub](https://github.com/alolteam/api/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
