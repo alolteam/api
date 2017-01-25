@@ -1,6 +1,7 @@
 ### Получение Oauth2 токена для общеие я api
 
 POST https:///api.alol.io/oauth/2.0/access-token
+
 Request
 
 ```
