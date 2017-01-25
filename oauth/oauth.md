@@ -1,8 +1,8 @@
 ### Получение Oauth2 токена для общеие я api
 
-POST
-request
-https:///api.alol.io/oauth/2.0/access-token
+POST https:///api.alol.io/oauth/2.0/access-token
+Request
+
 ```
 {
   "app_key":"{your_app_key}",
@@ -11,7 +11,8 @@ https:///api.alol.io/oauth/2.0/access-token
 }
 ```
 
-response 200 OK
+Response: 200 OK
+
 ```
 {
   "access_token": "a1ccd7a361473814e90c804134ba3e8c11f40647",
